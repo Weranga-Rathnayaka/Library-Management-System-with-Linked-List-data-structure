@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1654176910 source:d:\software engineering\hnd\semester 1\stage 1\pdsa\cw\library-management-system\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+
+1655381658 source:c:\users\weran\desktop\dsa cw\library-management-system\library-management-system\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+
